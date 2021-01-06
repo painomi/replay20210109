@@ -20,10 +20,10 @@
 ```
 .
 ├── README.md    # （このファイル）プレイ概要とリポジトリ運用
-├── isolation.md # アイソレーションとキャラクターの情報
-├── story1.md    # 時代1の記録
-├── story2.md    # 時代2の記録
-├── story3.md    # 時代3の記録
+├── isolation.md # アイソレーションとキャラクター
+├── story1.md    # 時代1
+├── story2.md    # 時代2
+├── story3.md    # 時代3
 └── legacy.md    # 遺されたもの
 ```
 
