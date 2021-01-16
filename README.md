@@ -4,13 +4,16 @@
 
 ### プレイヤー
 
+* painomi (https://github.com/painomi)
+
 
 ### プレイ日時
 
+2021年01月16日〜
 
 ### 記録
 
-* 〔言語のキャンバス〕 
+* 〔言語のキャンバス〕 https://jamboard.google.com/d/1MVCBZY6dU8ZG3XYzpBJKGsSDMhBzX1zxV0QIRT_XOVo
 
 
 ## リポジトリ運用
